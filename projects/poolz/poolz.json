@@ -65,5 +65,63 @@
       "telegram": "https://t.me/PoolzOfficialCommunity",
       "github": "https://github.com/The-Poolz"
     },
+    "screenshots": [
+    {
+      "small": {
+        "fileName": "poolz-lockpage-screenshot-small.png",
+        "width": 300,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-lockpage-screenshot-full.png",
+        "width": 1132,
+        "height": 573,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-dashboard-screenshot-small.png",
+        "width": 300,
+        "height": 244,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-dashboard-screenshot-full.png",
+        "width": 1078,
+        "height": 800,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-homepage-screenshot-small.png",
+        "width": 429,
+        "height": 200,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-homepage-screenshot-full.png",
+        "width": 1300,
+        "height": 728,
+        "mimeType": "image/png"
+      }
+    },
+    {
+      "small": {
+        "fileName": "poolz-projectpage-screenshot-small.png",
+        "width": 117,
+        "height": 254,
+        "mimeType": "image/png"
+      },
+      "full": {
+        "fileName": "poolz-projectpage-screeenshot-full.png",
+        "width": 377,
+        "height": 816,
+        "mimeType": "image/png"
+      }
+    }
+  ],
     "projectCreationDate": 1726662986380
   }
