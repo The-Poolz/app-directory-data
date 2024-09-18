@@ -1,4 +1,5 @@
 {
+    "id": "poolz-finance",
     "name": "Poolz Finance",
     "slug": "poolz-finance",
     "chains": ["moonbeam"],
